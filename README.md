@@ -60,5 +60,6 @@ Include a shopping cart for users to add multiple products before checking out.
 Screen Shot of App:
 
 ![Screenshot (289)](https://github.com/user-attachments/assets/97ac6d75-fcd3-4fa3-bb93-c6c36c9e02ec)
+![Screenshot (290)](https://github.com/user-attachments/assets/4942427e-2e0e-4d5a-9e6b-110efa3eb5ad)
 
 
