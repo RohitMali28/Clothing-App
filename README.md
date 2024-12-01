@@ -57,3 +57,8 @@ Implement user registration (sign-up) and authentication.
 Add product descriptions and ratings.
 Include a shopping cart for users to add multiple products before checking out.
 
+Screen Shot of App:
+
+![Screenshot (289)](https://github.com/user-attachments/assets/97ac6d75-fcd3-4fa3-bb93-c6c36c9e02ec)
+
+
