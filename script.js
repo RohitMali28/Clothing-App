@@ -148,4 +148,4 @@ document.addEventListener('DOMContentLoaded', () => {
             displayProducts(user);
         }
     }
-});
+}); 
