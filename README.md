@@ -24,9 +24,7 @@ thrd-clothing-store/
 
 ├── script.js          # JavaScript file for functionality (login, display products, purchase history, etc.)
 
-├── images/            # Folder containing product images (e.g., t-shirt.jpg, sneakers.jpg)
-
-└── README.md          # Project documentation
+└── images/            # Folder containing product images (e.g., t-shirt.jpg, sneakers.jpg)
 
 How it Works
 1. Login Form
